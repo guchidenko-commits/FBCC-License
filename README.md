@@ -1,6 +1,6 @@
 # ✊ FBCC Public License (Fight Big Commercial Companies)
 
-[![License: FBCC v1.1](https://shields.io)](LICENSE)
+![License: FBCC v1.1](https://shields.io)
 
 **FBCC (Fight Big Commercial Companies)** is an open, copyleft, non-commercial license created for indie developers, musicians, filmmakers, and creative communities. 
 
@@ -23,7 +23,7 @@ Born out of the frustration with strict corporate copyrights blocking independen
 Want to protect your code, music, or game assets under **FBCC v1.1**? Follow these 3 simple steps:
 
 ### 1. Add the License File
-Create a file named `LICENSE` (or `LICENSE.md`) in the root directory of your project and paste the full text of the **[FBCC v1.1 License](LICENSE)** (English) or **[FBCC v1.1 RU](LICENSE_RU.md)** (Russian).
+Create a file named `LICENSE` (or `LICENSE.md`) in the root directory of your project and paste the full text of the **FBCC v1.1 License** (`LICENSE` for English or `LICENSE_RU.md` for Russian).
 
 ### 2. Create a Credits File
 Create an empty `CREDITS.md` (or `AUTHORS.txt`) file next to your license and list yourself as the **Original Author**. Whenever you accept a patch or contribution from someone, add their name/alias here!
@@ -32,18 +32,16 @@ Create an empty `CREDITS.md` (or `AUTHORS.txt`) file next to your license and li
 Show the world that your project stands with independent creators by adding this badge to your `README.md`:
 
 ```markdown
-[![License: FBCC v1.1](https://shields.io)](https://github.com)
+[![License: FBCC v1.1](https://shields.io)](https://github.com/guchidenko-commits/FBCC-License)
 ```
-
-*(Don't forget to replace `YOUR-USERNAME/FBCC-License` with the link to your repository!)*
 
 ---
 
 ## 📂 Repository Structure
 
-* [`LICENSE`](LICENSE) — Official English text of the FBCC Public License v1.1.
-* [`LICENSE_RU.md`](LICENSE_RU.md) — Official Russian translation of the FBCC Public License v1.1.
-* [`CREDITS.md`](CREDITS.md) — List of creators and contributors who helped shape this license.
+* `LICENSE` — Official English text of the FBCC Public License v1.1.
+* `LICENSE_RU.md` — Official Russian translation of the FBCC Public License v1.1.
+* `CREDITS.md` — List of creators and contributors who helped shape this license.
 
 ---
 
@@ -52,3 +50,4 @@ Show the world that your project stands with independent creators by adding this
 Many indie creators want to share their music, code, and art freely with fellow enthusiasts, without waking up one day to find a massive corporation profiting off their hard work without giving anything back. **FBCC** bridges the gap between open-source collaboration and anti-corporate protection.
 
 *Created by indie devs, for indie devs. Feel free to open an Issue or Pull Request to suggest improvements for v1.2!*
+

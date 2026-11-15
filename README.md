@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="2_b46zOZ.svg" alt="FBCC Logo" width="200">
+</p>
+
 # ✊ FBCC Public License (Fight Big Commercial Companies)
 
 ![License: FBCC v1.1](https://shields.io)
@@ -32,7 +36,7 @@ Create an empty `CREDITS.md` (or `AUTHORS.txt`) file next to your license and li
 Show the world that your project stands with independent creators by adding this badge to your `README.md`:
 
 ```markdown
-[![License: FBCC v1.1](https://shields.io)](https://github.com/guchidenko-commits/FBCC-License)
+[![License: FBCC v1.1](https://shields.io)](https://github.com)
 ```
 
 ---
@@ -50,4 +54,3 @@ Show the world that your project stands with independent creators by adding this
 Many indie creators want to share their music, code, and art freely with fellow enthusiasts, without waking up one day to find a massive corporation profiting off their hard work without giving anything back. **FBCC** bridges the gap between open-source collaboration and anti-corporate protection.
 
 *Created by indie devs, for indie devs. Feel free to open an Issue or Pull Request to suggest improvements for v1.2!*
-

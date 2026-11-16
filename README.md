@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="2_b46zOZ.svg" alt="FBCC Logo" width="200">
+</p>
 
-
-#  FBCC Public License (Fight Big Commercial Companies)
+# ✊ FBCC Public License (Fight Big Commercial Companies)
 
 ![License: FBCC v1.2](https://shields.io)
 
@@ -10,41 +12,39 @@ Born out of the frustration with strict corporate copyrights blocking independen
 
 ---
 
-## The Core Rules (TL;DR)
+## 📜 The Core Rules (TL;DR)
 
-* 1) Open Source Materials:** Source code, DAW project files, stems, MIDI, and assets must remain publicly available for everyone to study and download.
-* 2) Free for Indie Creations:** Anyone can freely use, remix, and include FBCC works in indie games, films, videos, and other creative projects.
-* 3) No Commercial Exploitation:** Corporations, commercial studios, and for-profit projects are strictly prohibited from using these works without explicit written permission from the Original Author.
-* 4) Strict Copyleft (Share-Alike):** Inspired by GNU GPL — any derivative game, software, or film that uses FBCC materials must also remain non-commercial and release its source materials under the FBCC License.
-* 5) Open Collaboration & Mandatory Credits:** Anyone can submit patches or join the development team. If your patch is accepted, you **must** be credited in the `CREDITS` / `AUTHORS` file, and these credits can never be removed.
-* 6) VOLUNTARY DONATIONS
-Authors of Original or Derivative Works may accept strictly voluntary donations or tips from users (such as via Patreon, Ko-fi, or optional "pay what you want" tips). However, donations MUST NOT be required to access, download, or use the Work. Restricting gameplay, locking features, creating paywalls, or offering exclusive content solely to paying donors is strictly prohibited and considered Commercial Exploitation.
-* 7) DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
-THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE ORIGINAL AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE WORK. FURTHERMORE, THE ORIGINAL AUTHOR BEARS NO RESPONSIBILITY FOR UNAUTHORIZED COPIES, PIRACY, MODIFICATIONS, OR LEGAL VIOLATIONS COMMITTED BY THIRD PARTIES.
-
+* **🔓 True Open Source (Editable Formats):** Source code, game engine projects, DAW files, stems, MIDI, and layered assets must remain publicly available in an editable form—not just compiled binaries or final renders.
+* **🎮 Free for Indie & AI Projects:** Anyone can freely use, remix, train AI models on, or include FBCC works in indie games, films, and creative projects—as long as the resulting project or AI model remains completely free.
+* **🚫 Zero Digital Monetization & Ads:** Selling copies, subscriptions, paid DLCs, microtransactions, or embedding **any advertisements** is strictly prohibited.
+* **👕 Physical Merch & Voluntary Donations Allowed:** Creators may sell physical merchandise (T-shirts, stickers, posters) and accept strictly voluntary donations (e.g., Patreon, Boosty, Ko-fi). Donations **must not** be mandatory, lock gameplay, or hide content behind paywalls.
+* **🎥 Streaming & Content Creation:** YouTubers and streamers may broadcast, review, and monetize videos featuring FBCC works, provided proper credit is given.
+* **🦠 Strict Copyleft (Share-Alike):** Any derivative game, software, film, or AI model that uses FBCC materials must remain non-commercial, ad-free, and release its source materials under the FBCC License. Violating these rules automatically revokes your license.
+* **🤝 Open Collaboration & Smart Credits:** Anyone can submit patches. Every accepted contributor **must** be credited in the `CREDITS` / `AUTHORS` file. However, once a project exceeds **20 contributors**, individual names may be replaced with a single unified credit line: *"Thanks to all contributors"* (the Original Author's credit must always remain).
+* **🛡️ No Warranty & No Liability ("AS IS"):** The work is provided "as is", without any warranties. The Original Author is not liable for any damages, bugs, or illegal actions committed by pirates or third parties.
 
 ---
 
-## How to Use FBCC in Your Project
+## 🚀 How to Use FBCC in Your Project
 
-Want to protect your code, music, or game assets under **FBCC v1.1**? Follow these 3 simple steps:
+Want to protect your code, music, or game assets under **FBCC v1.2**? Follow these 3 simple steps:
 
 ### 1. Add the License File
-Create a file named `LICENSE` (or `LICENSE.md`) in the root directory of your project and paste the full text of the **FBCC v1.1 License** (`LICENSE` for English or `LICENSE_RU.md` for Russian).
+Create a file named `LICENSE` (or `LICENSE.md`) in the root directory of your project and paste the full text of the **FBCC v1.2 License** (`LICENSE` for English or `LICENSE_RU.md` for Russian).
 
 ### 2. Create a Credits File
-Create an empty `CREDITS.md` (or `AUTHORS.txt`) file next to your license and list yourself as the **Original Author**. Whenever you accept a patch or contribution from someone, add their name/alias here!
+Create an empty `CREDITS.md` (or `AUTHORS.txt`) file next to your license and list yourself as the **Original Author**. Whenever you accept a patch or contribution from someone, add their name/alias here (until you hit 20+ contributors)!
 
 ### 3. Add the Badge to Your README
 Show the world that your project stands with independent creators by adding this badge to your `README.md`:
 
 ```markdown
-[![License: FBCC v1.1](https://shields.io)](https://github.com)
+[![License: FBCC v1.2](https://shields.io)](https://github.com)
 ```
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 * `LICENSE` — Official English text of the FBCC Public License v1.2.
 * `LICENSE_RU.md` — Official Russian translation of the FBCC Public License v1.2.
